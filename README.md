@@ -24,3 +24,6 @@ The dataset used in this project includes columns for the year, location, indica
 ### Car Accident Ratio
 - The relationship between registered vehicles and car accident ratios across countries, colored by continent.
 <img width="1297" alt="CCC" src="https://github.com/YamouJ/Global-Car-Accident-Analysis/assets/167350506/d4d987c2-b9f8-43b1-97a5-336ee82917be">
+
+## Conclusion
+"We face a crisis here in America,” White House press secretary Karine Jean-Pierre told Yahoo News last month, pointing out that the number of people who died on the roads each year (42,795 in 2022) is comparable to the number killed by guns (48,830 in 2021). Americans drive more, which leads to more crashes, on roads that facilitate unsafe driving. On average, Americans drive more than twice as many miles as the French, more than three times as many as the Japanese and far more than even the residents of neighboring Canada have many more road deaths per capita in comparison to Germany and the U.K.
