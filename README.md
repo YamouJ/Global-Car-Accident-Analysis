@@ -20,3 +20,7 @@ The dataset used in this project includes columns for the year, location, indica
 #### Registered Vehicles by Country between 2010 to 2021 
 - Visualization focusing on the number of registered vehicles across 33 countries.
 <img width="1000" alt="RPY" src="https://github.com/YamouJ/Global-Car-Accident-Analysis/assets/167350506/ea6a2ba2-c57a-4830-b7cd-6805cd9479f3">
+
+#### Car Accident Ratio
+- 
+<img width="1297" alt="CCC" src="https://github.com/YamouJ/Global-Car-Accident-Analysis/assets/167350506/d4d987c2-b9f8-43b1-97a5-336ee82917be">
