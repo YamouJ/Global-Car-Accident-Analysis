@@ -12,7 +12,7 @@ The dataset used in this project includes columns for the year, location, indica
 
 ## Key Findings
 
-#### Car Accidents by Continent and Year
-- Europe experiences the highest number of car accidents each year, ranging from 67,000 to 120,000.
-- Oceania has the least, ranging from 7,000 to 20,000.
+#### Car Accidents by Continent between 2010 to 2021 
+- Europe experiences the highest number of car accidents between 2010 to 2021, ranging from 67,000 to 120,000.
+- Oceania has the least number of car accidents between 2010 to 2021, ranging from 7,000 to 20,000.
 <img width="1000" alt="CPY" src="https://github.com/YamouJ/Global-Car-Accident-Analysis/assets/167350506/6609ddda-20d5-4c8c-8262-d1e234ddafae">
